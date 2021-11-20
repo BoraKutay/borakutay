@@ -11,7 +11,7 @@
 - 🎂 08.08.1998
 
 ### Contact with me:
-<img align="left" alt="borakutay | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b> Boratheon #7731</b> <br> 
+<img align="left" alt="borakutay | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b> Boratheon #7731</b> <br>
 <img align="left" alt="borakutay | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <b> borakutay45@gmail.com </b> <br>
 
 ### Connect with me:
