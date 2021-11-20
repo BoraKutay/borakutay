@@ -11,8 +11,8 @@
 - 🎂 08.08.1998
 
 ### Contact with me:
-<img align="left" alt="borakutay | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b> Boratheon #7731</b> <br>
-<img align="left" alt="borakutay | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <b> borakutay45@gmail.com </b> <br>
+<div><img align="left" alt="borakutay | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b> Boratheon #7731</b> </div>
+<div><img align="left" alt="borakutay | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <b> borakutay45@gmail.com </b> </div>
 
 ### Connect with me:
 <a href="https://open.spotify.com/user/11139144446?si=1dcbc8af14c148fa" target="blank"><img align="left" alt="borakutay | Spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
