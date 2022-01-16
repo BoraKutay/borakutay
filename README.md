@@ -2,7 +2,7 @@
 
 ## Fresh graduate software developer candidate
 
-- 🌱 I’m currently learning Java and Solidity.
+- 📚 I’m currently learning Java and Solidity.
 - 📫 Graduated from Eskişehir Osmangazi University
 - 🚀 Preferred languages (But I like learning new ones) : Java, C# Python
 - 👉 Deep Learning, Spring Framework
