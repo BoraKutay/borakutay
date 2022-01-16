@@ -5,7 +5,7 @@
 - 📚 I’m currently learning Java and Solidity.
 - 📫 Graduated from Eskişehir Osmangazi University
 - 🚀 Preferred languages (But I like learning new ones) : Java, C# Python
-- 👉 Deep Learning, Spring Framework
+- 👉 Deep Learning, Spring Framework, Web Development
 - 🚩 Manisa, Turkey
 - ⚽ Galatasaray 🟡🔴
 - 🎂 08.08.1998
