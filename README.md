@@ -2,10 +2,10 @@
 
 ## Fresh graduate software developer candidate
 
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently learning Java and Solidity.
 - 📫 Graduated from Eskişehir Osmangazi University
 - 🚀 Preferred languages (But I like learning new ones) : Java, C# Python
-- 👉 Test Automation, Deep Learning, Spring Framework
+- 👉 Deep Learning, Spring Framework
 - 🚩 Manisa, Turkey
 - ⚽ Galatasaray 🟡🔴
 - 🎂 08.08.1998
