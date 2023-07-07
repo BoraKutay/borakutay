@@ -1,17 +1,16 @@
 ### 👋 Hi there, I'm Bora Kutay 👋
 
-## Fresh graduate software developer candidate
+## Software Developer @atmosware
 
-- 📚 I’m currently learning Java and Solidity.
 - 📫 Graduated from Eskişehir Osmangazi University
-- 🚀 Preferred languages (But I like learning new ones) : Java, C# Python
-- 👉 Deep Learning, Spring Framework, Web Development
+- 🚀 Preferred languages : Java, C#, Python
+- 👉 Spring Framework, Web Development
 - 🚩 Manisa, Turkey
 - ⚽ Galatasaray 🟡🔴
 - 🎂 08.08.1998
 
 ### Contact with me:
-<div><img align="center" alt="borakutay | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b> Boratheon #7731</b> </div>
+<div><img align="center" alt="borakutay | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> <b> dasBorak #7731</b> </div>
 <div><img align="center" alt="borakutay | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> <b> borakutay45@gmail.com </b> </div>
 
 ### Connect with me:
