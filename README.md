@@ -3,8 +3,8 @@
 ## Software Developer @atmosware
 
 - 📫 Graduated from Eskişehir Osmangazi University
-- 🚀 Preferred languages : Java, C#, Python
-- 👉 Spring Framework, Web Development
+- 🚀 Preferred languages : Java, Typescript
+- 👉 Spring Framework, Web Development, Angular, REST, SOAP, PL/SQL
 - 🚩 Manisa, Turkey
 - ⚽ Galatasaray 🟡🔴
 - 🎂 08.08.1998
